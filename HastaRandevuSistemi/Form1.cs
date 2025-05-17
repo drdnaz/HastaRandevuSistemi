@@ -2,7 +2,7 @@
 using HastaRandevuSistemi.Models;
 
 using HastaRandevuSistemi.Models;
-using HastaRandevuSistemi.Models.KayitFormu1.Models;
+
 
 
 

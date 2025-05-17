@@ -11,5 +11,4 @@ namespace HastaRandevuSistemi.Models
         public int Id { get; set; }
         public string BransAdi { get; set; }
     }
-
 }

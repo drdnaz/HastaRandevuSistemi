@@ -6,8 +6,8 @@ using System.Threading.Tasks;
 
 namespace HastaRandevuSistemi.Models
 {
-    namespace KayitFormu1.Models
-    {
+   
+    
         public class Doktor
         {
             public int Id { get; set; }
@@ -22,4 +22,3 @@ namespace HastaRandevuSistemi.Models
 
     }
 
-}
